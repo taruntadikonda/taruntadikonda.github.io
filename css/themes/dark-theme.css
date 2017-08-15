@@ -1,0 +1,170 @@
+/*=======================================
+Template Design By MarkUps.
+Author URI : http://www.markups.io/
+========================================*/
+a {
+  color: #303030;
+}
+
+.navbar-fixed nav {
+  background-color: #262626;
+}
+
+.side-nav li:hover{
+  background-color: #d7bc02;
+}
+.btn ,.btn-large{
+  background-color: #d7bc02;
+}
+.btn:hover, .btn-large:hover {
+  background-color: #d7bc02;
+}
+.home-title span{
+  color: #d7bc02;
+}
+.about-inner-right>h3{
+  color: #d7bc02;
+}
+.personal-information>h3{
+  color: #d7bc02;
+}
+.title{
+  color: #d7bc02;
+}
+
+.card-subtitle {
+  color: #d7bc02;
+}
+
+.filter {
+  color: #d7bc02;
+}
+.filter:focus{
+  background-color: #d7bc02;
+}
+
+.counter{
+  color: #d7bc02;
+}
+
+.pro-bar-container.color-wisteria {
+  border-color: #d7bc02;
+}
+
+.pro-bar.color-amethyst {
+  background-color: #d7bc02;
+}
+.call-to-about i{
+  color: #d7bc02;
+}
+
+
+.post-comment:hover{
+  color: #d7bc02 !important;
+}
+
+.readmore-btn:hover{
+  background-color: #d7bc02;
+}
+
+.card-title i {
+  color: #d7bc02;
+}
+.customNavigation i{
+  color: #d7bc02;
+}
+
+.footer-top{
+  background-color:#303030;
+}
+input[type="text"]:focus:not([readonly]) + label,
+input[type="password"]:focus:not([readonly]) + label,
+input[type="email"]:focus:not([readonly]) + label,
+input[type="url"]:focus:not([readonly]) + label,
+input[type="time"]:focus:not([readonly]) + label,
+input[type="date"]:focus:not([readonly]) + label,
+input[type="datetime-local"]:focus:not([readonly]) + label,
+input[type="tel"]:focus:not([readonly]) + label,
+input[type="number"]:focus:not([readonly]) + label,
+input[type="search"]:focus:not([readonly]) + label,
+textarea.materialize-textarea:focus:not([readonly]) + label {
+  color: #d7bc02;
+}
+input[type="text"]:focus:not([readonly]),
+input[type="password"]:focus:not([readonly]),
+input[type="email"]:focus:not([readonly]),
+input[type="url"]:focus:not([readonly]),
+input[type="time"]:focus:not([readonly]),
+input[type="date"]:focus:not([readonly]),
+input[type="datetime-local"]:focus:not([readonly]),
+input[type="tel"]:focus:not([readonly]),
+input[type="number"]:focus:not([readonly]),
+input[type="search"]:focus:not([readonly]),
+textarea.materialize-textarea:focus:not([readonly]) {
+  border-bottom: 1px solid #d7bc02;
+  box-shadow: 0 1px 0 0 #d7bc02;
+}
+.submit-btn{
+  color: #d7bc02;
+}
+.submit-btn:hover,
+.submit-btn:focus{
+  background-color: #d7bc02;
+}
+.overlay-header{
+  background-color: #d7bc02;
+}
+
+.share-area h4 i,
+.tag-area h4 i {
+  color: #d7bc02;
+}
+.share-area a:hover,
+.share-area a:focus{
+  color: #d7bc02;
+}
+.author-comments {
+  background-color: #d7bc02 !important;
+}
+.reply-btn:hover{
+  background-color: #d7bc02;
+}
+.pagination li.active{
+  background-color: #d7bc02;
+}
+.card .card-action a {
+  color: #d7bc02;
+}
+.tagcloud a:hover,
+.tagcloud a:focus{
+  color: #fff;
+  background-color: #d7bc02;
+  border-color: #d7bc02;
+}
+.prev-post:hover,
+.prev-post:focus,
+.next-post:hover,
+.next-post:focus{
+  background-color: #d7bc02;
+}
+.submit-btn{
+  color: #d7bc02;
+}
+.side-nav li:hover,
+.side-nav li.active {
+  background-color: #d7bc02;
+}
+.progress .indeterminate {
+  background-color: #d7bc02;
+}
+
+/*=======================================
+Template Design By MarkUps.
+Author URI : http://www.markups.io/
+========================================*/
+
+/* Always set the map height explicitly to define the size of the div
+* element that contains the map. */
+#map {
+  height: 100%;
+}
